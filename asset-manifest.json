@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/10-ra-homework-redux-all/static/css/main.a3a5ef5d.css",
+    "main.js": "/10-ra-homework-redux-all/static/js/main.094fcb8d.js",
+    "static/js/787.08e8f8b6.chunk.js": "/10-ra-homework-redux-all/static/js/787.08e8f8b6.chunk.js",
+    "static/media/Montserrat-Regular.woff2": "/10-ra-homework-redux-all/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/10-ra-homework-redux-all/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "static/media/pen.svg": "/10-ra-homework-redux-all/static/media/pen.62467175c11505a3af3a.svg",
+    "static/media/delete_red.svg": "/10-ra-homework-redux-all/static/media/delete_red.a5a16d61879442e51a63.svg",
+    "index.html": "/10-ra-homework-redux-all/index.html",
+    "main.a3a5ef5d.css.map": "/10-ra-homework-redux-all/static/css/main.a3a5ef5d.css.map",
+    "main.094fcb8d.js.map": "/10-ra-homework-redux-all/static/js/main.094fcb8d.js.map",
+    "787.08e8f8b6.chunk.js.map": "/10-ra-homework-redux-all/static/js/787.08e8f8b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3a5ef5d.css",
+    "static/js/main.094fcb8d.js"
+  ]
+}
