@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "@reduxjs/toolkit": "^1.9.7",
     "nanoid": "^5.0.1",
     "prop-types": "^15.8.1"
   }
